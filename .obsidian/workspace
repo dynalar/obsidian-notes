@@ -1,0 +1,97 @@
+{
+  "main": {
+    "id": "0236361631cbe0fd",
+    "type": "split",
+    "children": [
+      {
+        "id": "fe593fa664d6f3df",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "Crypto/Ethereum/Introduction.md",
+            "mode": "source",
+            "source": false
+          }
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "10a368a44089519e",
+    "type": "split",
+    "children": [
+      {
+        "id": "4a56963116965301",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "2dd80f15b143e6b0",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "9f104ba231f474e7",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "c96cec32f9062439",
+    "type": "split",
+    "children": [
+      {
+        "id": "64f1e71d678cdf05",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "e0766405a467760b",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Crypto/Ethereum/Introduction.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "active": "fe593fa664d6f3df",
+  "lastOpenFiles": [
+    "Crypto/Ethereum/Introduction.md",
+    "Crypto/Untitled.md",
+    "README.md",
+    "Crypto/Ethereum/Whas.md"
+  ]
+}
